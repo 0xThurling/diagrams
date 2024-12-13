@@ -15,7 +15,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72sANvTvvz615wocW-7p-4" value="ContactId (ULID)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="72sANvTvvz615wocW-7p-2">
+        <mxCell id="72sANvTvvz615wocW-7p-4" value="contactId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="72sANvTvvz615wocW-7p-2">
           <mxGeometry x="30" width="440" height="30" as="geometry">
             <mxRectangle width="440" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -28,7 +28,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72sANvTvvz615wocW-7p-7" value="Name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="72sANvTvvz615wocW-7p-5">
+        <mxCell id="72sANvTvvz615wocW-7p-7" value="name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="72sANvTvvz615wocW-7p-5">
           <mxGeometry x="30" width="440" height="30" as="geometry">
             <mxRectangle width="440" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -41,7 +41,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72sANvTvvz615wocW-7p-10" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="72sANvTvvz615wocW-7p-8">
+        <mxCell id="72sANvTvvz615wocW-7p-10" value="phoneNumber" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="72sANvTvvz615wocW-7p-8">
           <mxGeometry x="30" width="440" height="30" as="geometry">
             <mxRectangle width="440" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -58,6 +58,9 @@
           <mxGeometry x="30" width="440" height="30" as="geometry">
             <mxRectangle width="440" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="72sANvTvvz615wocW-7p-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Database&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-weight: 400; caret-color: rgb(55, 65, 81); color: rgb(55, 65, 81); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;A database to store contacts (name, phone number, email) in a table and implement basic CRUD (Create, Read, Update, Delete) operations.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="10" width="470" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
